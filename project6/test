@@ -1,0 +1,86 @@
+addStudent Garcia Marie
+addGrade Garcia Marie Q1 2
+addGrade Garcia Marie Q2 3
+addGrade Garcia Marie Q3 4
+addGrade Garcia Marie Q4 10
+addGrade Garcia Marie Q5 10
+addGrade Garcia Marie Q6 10
+addGrade Garcia Marie Q7 2
+addGrade Garcia Marie Q8 3
+addGrade Garcia Marie Q9 4
+addGrade Garcia Marie Q10 10
+addGrade Garcia Marie Q11 10
+
+addStudent Doe Jane
+addGrade Doe Jane Q10 10
+addGrade Doe Jane Q2 2
+addGrade Doe Jane Q4 3
+addGrade Doe Jane Q5 4
+addGrade Doe Jane Q1 10
+addGrade Doe Jane Q6 10
+addGrade Doe Jane Q3 10
+addGrade Doe Jane Q7 2
+addGrade Doe Jane Q8 3
+addGrade Doe Jane Q11 4
+addGrade Doe Jane Q9 10
+
+addStudent Smith John
+addGrade Smith John Q4 4
+addGrade Smith John L3 3
+addGrade Smith John L5 5
+addGrade Smith John Q2 10
+addGrade Smith John L4 10
+addGrade Smith John Q10 10
+addGrade Smith John Q11 10
+addGrade Smith John P2 10
+addGrade Smith John P4 3
+
+addStudent Zed Zeta
+addGrade Zed Zeta Q4 4
+addGrade Zed Zeta L3 3
+addGrade Zed Zeta L5 5
+addGrade Zed Zeta Q2 10
+addGrade Zed Zeta L4 10
+addGrade Zed Zeta Q10 10
+addGrade Zed Zeta Q11 10
+addGrade Zed Zeta P2 10
+addGrade Zed Zeta P4 3
+addGrade Zed Zeta P4 6
+
+addStudent Betta Fish
+addGrade Betta Fish Q1 4
+addGrade Betta Fish E1 3
+addGrade Betta Fish L5 5
+addGrade Betta Fish Q2 10
+addGrade Betta Fish L4 10
+addGrade Betta Fish Q10 10
+addGrade Betta Fish Q10 1
+addGrade Betta Fish P2 10
+addGrade Betta Fish P4 3
+
+addStudent Betta Fish
+
+addGrade Don't Exist P4 3
+
+print
+
+count
+
+removeGrade Betta Fish Q3
+removeGrade Betta Fish Q4
+removeGrade Betta Fish L3
+removeGrade Betta Fish Q10
+removeGrade Betta Fish P4
+
+printStudent Betta Fish
+
+removeStudent Zed Zeta
+removeStudent Garcia Marie
+removeStudent Betta Fish
+removeStudent Don't Exist
+
+print
+
+count
+
+quit

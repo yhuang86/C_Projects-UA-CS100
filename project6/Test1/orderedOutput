@@ -1,0 +1,179 @@
+
+Enter a command: 
+Enter a command: 
+Enter a command: 
+Enter a command: 
+Enter a command: 
+Enter a command: 
+Enter a command: 
+Enter a command: 
+Enter a command: 
+Enter a command: 
+Enter a command: 
+Enter a command: 
+Enter a command: 
+Enter a command: 
+Enter a command: 
+Enter a command: 
+Enter a command: 
+Enter a command: 
+Enter a command: 
+Enter a command: 
+Enter a command: 
+Enter a command: 
+Enter a command: 
+Enter a command: 
+Enter a command: 
+Enter a command: 
+Enter a command: 
+Enter a command: 
+Enter a command: 
+Enter a command: 
+Enter a command: 
+Enter a command: 
+Enter a command: 
+Enter a command: 
+Enter a command: 
+Enter a command: 
+Enter a command: 
+Enter a command: 
+Enter a command: 
+Enter a command: 
+Enter a command: 
+Enter a command: 
+Enter a command: 
+Enter a command: 
+Enter a command: 
+Enter a command: 
+Enter a command: 
+Enter a command: 
+Enter a command: 
+Enter a command: 
+Enter a command: 
+Enter a command: 
+Enter a command: 
+Enter a command: 
+Enter a command: 
+Enter a command: 
+Error: Student Betta, Fish already exists.
+
+Enter a command: 
+Error: Student Don't, Exist does not exist.
+
+Enter a command: 
+Student Name: Betta, Fish
+E1: 3
+L4: 10
+L5: 5
+P2: 10
+P4: 3
+Q1: 4
+Q2: 10
+Q10: 1
+
+Student Name: Doe, Jane
+Q1: 10
+Q2: 2
+Q3: 10
+Q4: 3
+Q5: 4
+Q6: 10
+Q7: 2
+Q8: 3
+Q9: 10
+Q10: 10
+Q11: 4
+
+Student Name: Garcia, Marie
+Q1: 2
+Q2: 3
+Q3: 4
+Q4: 10
+Q5: 10
+Q6: 10
+Q7: 2
+Q8: 3
+Q9: 4
+Q10: 10
+Q11: 10
+
+Student Name: Smith, John
+L3: 3
+L4: 10
+L5: 5
+P2: 10
+P4: 3
+Q2: 10
+Q4: 4
+Q10: 10
+Q11: 10
+
+Student Name: Zed, Zeta
+L3: 3
+L4: 10
+L5: 5
+P2: 10
+P4: 6
+Q2: 10
+Q4: 4
+Q10: 10
+Q11: 10
+
+Enter a command: 
+There are 5 students
+
+Enter a command: 
+Error: Q3 does not exist.
+
+Enter a command: 
+Error: Q4 does not exist.
+
+Enter a command: 
+Error: L3 does not exist.
+
+Enter a command: 
+Enter a command: 
+Enter a command: 
+Student Name: Betta, Fish
+E1: 3
+L4: 10
+L5: 5
+P2: 10
+Q1: 4
+Q2: 10
+
+Enter a command: 
+Enter a command: 
+Enter a command: 
+Enter a command: 
+Error: Student Don't, Exist does not exist.
+
+Enter a command: 
+Student Name: Doe, Jane
+Q1: 10
+Q2: 2
+Q3: 10
+Q4: 3
+Q5: 4
+Q6: 10
+Q7: 2
+Q8: 3
+Q9: 10
+Q10: 10
+Q11: 4
+
+Student Name: Smith, John
+L3: 3
+L4: 10
+L5: 5
+P2: 10
+P4: 3
+Q2: 10
+Q4: 4
+Q10: 10
+Q11: 10
+
+Enter a command: 
+There are 2 students
+
+Enter a command: 

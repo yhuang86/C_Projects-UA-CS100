@@ -1,0 +1,87 @@
+addStudentOrdered Garcia Marie
+addGradeOrdered Garcia Marie Q1 2
+addGradeOrdered Garcia Marie Q2 3
+addGradeOrdered Garcia Marie Q3 4
+addGradeOrdered Garcia Marie Q4 10
+addGradeOrdered Garcia Marie Q5 10
+addGradeOrdered Garcia Marie Q6 10
+addGradeOrdered Garcia Marie Q7 2
+addGradeOrdered Garcia Marie Q8 3
+addGradeOrdered Garcia Marie Q9 4
+addGradeOrdered Garcia Marie Q10 10
+addGradeOrdered Garcia Marie Q11 10
+
+addStudentOrdered Doe Jane
+addGradeOrdered Doe Jane Q10 10
+addGradeOrdered Doe Jane Q2 2
+addGradeOrdered Doe Jane Q4 3
+addGradeOrdered Doe Jane Q5 4
+addGradeOrdered Doe Jane Q1 10
+addGradeOrdered Doe Jane Q6 10
+addGradeOrdered Doe Jane Q3 10
+addGradeOrdered Doe Jane Q7 2
+addGradeOrdered Doe Jane Q8 3
+addGradeOrdered Doe Jane Q11 4
+addGradeOrdered Doe Jane Q9 10
+
+addStudentOrdered Smith John
+addGradeOrdered Smith John Q4 4
+addGradeOrdered Smith John L3 3
+addGradeOrdered Smith John L5 5
+addGradeOrdered Smith John Q2 10
+addGradeOrdered Smith John L4 10
+addGradeOrdered Smith John Q10 10
+addGradeOrdered Smith John Q11 10
+addGradeOrdered Smith John P2 10
+addGradeOrdered Smith John P4 3
+
+addStudentOrdered Zed Zeta
+addGradeOrdered Zed Zeta Q4 4
+addGradeOrdered Zed Zeta L3 3
+addGradeOrdered Zed Zeta L5 5
+addGradeOrdered Zed Zeta Q2 10
+addGradeOrdered Zed Zeta L4 10
+addGradeOrdered Zed Zeta Q10 10
+addGradeOrdered Zed Zeta Q11 10
+addGradeOrdered Zed Zeta P2 10
+addGradeOrdered Zed Zeta P4 3
+addGradeOrdered Zed Zeta P4 6
+
+
+addStudentOrdered Betta Fish
+addGradeOrdered Betta Fish Q1 4
+addGradeOrdered Betta Fish E1 3
+addGradeOrdered Betta Fish L5 5
+addGradeOrdered Betta Fish Q2 10
+addGradeOrdered Betta Fish L4 10
+addGradeOrdered Betta Fish Q10 10
+addGradeOrdered Betta Fish Q10 1
+addGradeOrdered Betta Fish P2 10
+addGradeOrdered Betta Fish P4 3
+
+addStudentOrdered Betta Fish
+
+addGrade Don't Exist P4 3
+
+print
+
+count
+
+removeGrade Betta Fish Q3
+removeGrade Betta Fish Q4
+removeGrade Betta Fish L3
+removeGrade Betta Fish Q10
+removeGrade Betta Fish P4
+
+printStudent Betta Fish
+
+removeStudent Zed Zeta
+removeStudent Garcia Marie
+removeStudent Betta Fish
+removeStudent Don't Exist
+
+print
+
+count
+
+quit
